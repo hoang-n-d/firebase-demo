@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 import { Icon } from 'react-materialize'; 
 import Notification from "./Edit";
 import { useFormik } from "formik";
-import * as Yup from "yup";
+
 import {
     TextField,
     Switch,
